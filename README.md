@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maxim!
+# 👋 Hi, I'm Maxime!
 
 I'm a frontend developer.
 
