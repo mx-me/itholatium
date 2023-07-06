@@ -7,3 +7,5 @@ Currently interested in Rust 🦀, Node and Deno.
 Working on various decentralized projects.
 
 [itholatium.me](https://itholatium.me)
+
+🐥 [@itholatium](https://twitter.com/itholatium)
