@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Maxime!
 
-I'm a frontend web developer from France 🇫🇷.
+I'm a frontend web developer from France.
 
-Currently interested in Rust 🦀, Node and Deno.
+Currently interested in Rust and Bun.
 
-Working on various decentralized projects.
+Working on various projects, including decentralized apps.
 
-[itholatium.me](https://itholatium.me)
+Art lover and amateur illustrator.
 
-🐥 [@itholatium](https://twitter.com/itholatium)
+[mxime.dev](https://mxime.dev)
